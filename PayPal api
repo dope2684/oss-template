@@ -1,0 +1,10 @@
+Response
+
+HTTP Status: 200 OK
+{
+  "scope": "https://uri.paypal.com/services/wallet/bank-accounts/readwrite https://uri.paypal.com/services/partners/merchant-accounts/readwrite https://uri.paypal.com/services/wallet/bank-accounts/internal-read https://uri.paypal.com/services/risk/raas/transaction-context https://uri.paypal.com/services/wallet/bank-accounts/internal-update https://uri.paypal.com/services/payments/payment/authcapture https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/customer/partner-referrals/readwrite https://uri.paypal.com/services/customer/onboarding/admin https://uri.paypal.com/services/payments/referenced-payouts-items/readwrite https://api.paypal.com/v1/vault/credit-card https://uri.paypal.com/services/customer/onboarding/sessions openid https://uri.paypal.com/services/customer/partner https://uri.paypal.com/services/disputes/update-seller https://uri.paypal.com/services/customer/onboarding/user https://uri.paypal.com/services/wallet/bank-accounts/read https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/payments/refund https://uri.paypal.com/services/applications/webhooks https://uri.paypal.com/payments/payouts https://uri.paypal.com/services/customer/onboarding/account https://uri.paypal.com/services/identity/grantdelegation https://uri.paypal.com/services/reporting/search/read https://uri.paypal.com/services/disputes/read-seller https://uri.paypal.com/services/subscriptions https://uri.paypal.com/services/wallet/bank-accounts/update https://uri.paypal.com/services/wallet/bank-accounts https://uri.paypal.com/services/customer/onboarding/privilege/auto-confirm-email",
+  "nonce": "2017-09-14T21:06:03Zs0XzOpdi1_Mjnihx0EMDgrG5r8kDcPnJFm-kGHq6qSY",
+  "access_token": "A21AAFnNagckuSeTmuxh76PObGZDBf2Pu3zG9AzZzakdXrIL8KyGmx7eOr_mV0pKpmoiLn8_dxQdaB1miYyrGIxArfofTUxoA",
+  "token_type": "Bearer",
+  "app_id": "APP-80W284485P519543T",
+  "expires_in": 30320
